@@ -66,7 +66,6 @@ font-weight: bold;
     font-style: italic;
     font-size: 25px;
     margin-left: 50px;
-    text-decoration: underline;
 }
 .textbold{
     font-weight: bold;
@@ -76,4 +75,13 @@ font-weight: bold;
     flex-direction: row;
     justify-content: space-around;
     width: 600px;
+}
+.color1{
+    background:rgba(101, 83, 122, 0.67);
+    margin-right: 50px;
+    color: white;
+    text-align: center;
+}
+.align{
+    text-decoration: underline;
 }
