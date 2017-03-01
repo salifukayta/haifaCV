@@ -1,0 +1,79 @@
+body {
+    background-color: rgba(170, 163, 123, 0.27);
+
+}
+.grandp1{
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    justify-content: center;
+
+    background-color: rgba(17, 13, 9, 0.51);
+
+}
+.img1{
+    width: 20%;
+}
+.partie1{
+}
+.p1{
+    color: white;
+   display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    font-size: 32px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    text-align: justify;
+
+}
+.p2{
+    color: white;
+    display: flex;
+    justify-content: center;
+ font-size: 22px;
+}
+.p3{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+
+}
+.text1{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+.partie2{
+
+
+    width: 1000px;
+    padding-left: 50px;
+    background-color: white;
+    display: flex;
+    margin: 0 auto;
+    padding-top: 30px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.civil{
+font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    margin-left: 50px;
+    text-decoration: underline;
+}
+.textbold{
+    font-weight: bold;
+}
+.part21{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+}
